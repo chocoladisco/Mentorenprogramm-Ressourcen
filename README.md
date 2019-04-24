@@ -16,9 +16,9 @@ Das [Pomodoro lerntechnik](https://karrierebibel.de/pomodoro-technik/) war nach 
 
 [Autogenerierte Stundenplan und Kalenderübersicht:](https://campus.studium.kit.edu/events/timetable.php)
 
-    0. Wenn eine VL zu Favoriten hingefugt wird alle terminen werden automatish zum Stundenplan addiert.
+0. Wenn eine VL zu Favoriten hingefugt wird alle terminen werden automatish zum Stundenplan addiert.
 
-    1. [Hier](https://campus.studium.kit.edu/events/webcal.php) finden Sie ein link um den Kalendar mit eine Kalender ihrer Wahl zu verbinden.
+1. [Hier](https://campus.studium.kit.edu/events/webcal.php) finden Sie ein link um den Kalendar mit eine Kalender ihrer Wahl zu verbinden.
 
 ## Selbstpflege
 
