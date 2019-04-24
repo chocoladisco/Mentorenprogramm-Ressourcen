@@ -4,18 +4,44 @@ Dieses repo soll eine Sammlung von Ressourcen sein die wir praktisch fanden für
 
 ## Lerntechniken
 
+### Flashcards
+
+Mit Lernkarten wird auswendig lernen einfacher, dafur ist [anki](https://apps.ankiweb.net/) eine gute os-agnostisch open-source programm dafur. 
+
+
 ### Zeitmanagement
+
+
+Das [Pomodoro lerntechnik](https://karrierebibel.de/pomodoro-technik/) war nach erfahrung einige Mentoren sehr hilfreich, dafur ist [tomato-timer](https://tomato-timer.com/) ein wichtiges werkzeugs.
+
+[Autogenerierte Stundenplan und Kalenderübersicht:](https://campus.studium.kit.edu/events/timetable.php)
+
+    0. Wenn eine VL zu Favoriten hingefugt wird alle terminen werden automatish zum Stundenplan addiert.
+
+    1. [Hier](https://campus.studium.kit.edu/events/webcal.php) finden Sie ein link um den Kalendar mit eine Kalender ihrer Wahl zu verbinden.
 
 ## Selbstpflege
 
 ### Gesunde Ernährung
 
+#### Overview
+    https://mynutrition.wsu.edu/home/
+#### meal prep / Rezepte
+    https://www.menshealth.com/nutrition/a19544125/beginners-guide-to-meal-prep/
+    https://www.budgetbytes.com/meal-prep-101-a-beginners-guide/<Paste>
+
+
 ### Sport
+
+Das KIT Bietet Jedes Semester verschiedene Sportkursen unter dem KIT [hochschulsport](https://www.sport.kit.edu/hochschulsport/index.php)
 
 ### Psyche
 
-PBS:
-Nightline:
+>[Prüfungsangst? Konzentrationsschwierigkeiten? Selbstwertprobleme? Einsamkeit? Beziehungskonflikte?
+>Angst vor der Zukunft? - die Psychotherapeutische Beratungsstelle (PBS) des Studierendenwerk Karlsruhe hilft weiter!](https://www.sw-ka.de/de/beratung/psychologisch/psychotherapeutische_beratungsstelle_karlsruhe/) 
+ -- Studentenwerk Karlsruhe
+
+> [Die Nightline ist ein Zuhörtelefon von Studierenden für Studierende.](https://nightline-karlsruhe.de/)
 
 ## KIT-Informationsquellen
 
