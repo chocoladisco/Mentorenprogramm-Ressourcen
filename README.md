@@ -4,15 +4,16 @@ Dieses repo soll eine Sammlung von Ressourcen sein die wir praktisch fanden für
 
 ## Lerntechniken
 
+Da jeder anders lenrt haben wir hilfreiche links das fuer uns hilfreich waren gesammelt. 
+
 ### Flashcards
 
-Mit Lernkarten wird auswendig lernen einfacher, dafur ist [anki](https://apps.ankiweb.net/) eine gute os-agnostisch open-source programm dafur. 
+Mit Lernkarten wird auswendig lernen einfacher, aber fuer jede VL Lernkarten zu schreiben braucht seit, dafur ist [anki](https://apps.ankiweb.net/) eine gute os-agnostisch open-source programm dafur, die dieses Arbeit vereinfacht.
 
 
 ### Zeitmanagement
 
-
-Das [Pomodoro lerntechnik](https://karrierebibel.de/pomodoro-technik/) war nach erfahrung einige Mentoren sehr hilfreich, dafur ist [tomato-timer](https://tomato-timer.com/) ein wichtiges werkzeugs.
+Das [Pomodoro lerntechnik](https://karrierebibel.de/pomodoro-technik/) war nach erfahrung einige Mentoren sehr hilfreich, dafur ist [tomato-timer](https://tomato-timer.com/) ein wichtiges werkzeugs. 
 
 [Autogenerierte Stundenplan und Kalenderübersicht:](https://campus.studium.kit.edu/events/timetable.php)
 
@@ -22,10 +23,16 @@ Das [Pomodoro lerntechnik](https://karrierebibel.de/pomodoro-technik/) war nach 
 
 ## Selbstpflege
 
+Um eine erfolgreichen studium braucht man Gesund zu bleiben, d.h. gut esse, sport machen und irgenwie stress zu vermeiden.
+
 ### Gesunde Ernährung
 
 #### Overview
-    https://mynutrition.wsu.edu/home/
+
+Von der Washington State University gibt es jede Menge Information zu einer gesunden und ausgewogenen Ernährung.
+
+[https://mynutrition.wsu.edu/home/](Tipps zur eigenen Ernährung von der Washington State University)
+
 #### meal prep / Rezepte
     https://www.menshealth.com/nutrition/a19544125/beginners-guide-to-meal-prep/
     https://www.budgetbytes.com/meal-prep-101-a-beginners-guide/<Paste>
@@ -44,6 +51,8 @@ Das KIT Bietet Jedes Semester verschiedene Sportkursen unter dem KIT [hochschuls
 > [Die Nightline ist ein Zuhörtelefon von Studierenden für Studierende.](https://nightline-karlsruhe.de/)
 
 ## KIT-Informationsquellen
+
+Wo finde ich was?
 
 ### Modulhandbuch
 
