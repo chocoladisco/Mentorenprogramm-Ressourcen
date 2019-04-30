@@ -4,11 +4,12 @@ Dieses repo soll eine Sammlung von Ressourcen sein die wir praktisch fanden für
 
 ## Lerntechniken
 
-Da jeder anders lenrt haben wir hilfreiche links das fuer uns hilfreich waren gesammelt. 
+Da jeder anders lernt haben wir hilfreiche links das fuer uns hilfreich waren gesammelt. 
 
 ### Flashcards
 
-Mit Lernkarten wird auswendig lernen einfacher, aber fuer jede VL Lernkarten zu schreiben braucht seit, dafur ist [anki](https://apps.ankiweb.net/) eine gute os-agnostisch open-source programm dafur, die dieses Arbeit vereinfacht.
+Mit Karteikarten wird auswendig lernen einfacher, aber für jede VL Karteikarten zu schreiben braucht Zeit.
+[anki](https://apps.ankiweb.net/) ist hierfür ein gutes plattformübegreifendes open-source Programm, welches diese Arbeit erheblich vereinfacht.
 
 
 ### Zeitmanagement
@@ -31,7 +32,7 @@ Um eine erfolgreichen studium braucht man Gesund zu bleiben, d.h. gut esse, spor
 
 Von der Washington State University gibt es jede Menge Information zu einer gesunden und ausgewogenen Ernährung.
 
-[https://mynutrition.wsu.edu/home/](Tipps zur eigenen Ernährung von der Washington State University)
+[Tipps zur eigenen Ernährung von der Washington State University](https://mynutrition.wsu.edu/home/)
 
 #### meal prep / Rezepte
     https://www.menshealth.com/nutrition/a19544125/beginners-guide-to-meal-prep/
